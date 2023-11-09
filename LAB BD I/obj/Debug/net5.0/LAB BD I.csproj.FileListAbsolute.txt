@@ -1,0 +1,16 @@
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\bin\Debug\net5.0\LAB BD I.exe
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\bin\Debug\net5.0\LAB BD I.deps.json
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\bin\Debug\net5.0\LAB BD I.runtimeconfig.json
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\bin\Debug\net5.0\LAB BD I.runtimeconfig.dev.json
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\bin\Debug\net5.0\LAB BD I.dll
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\bin\Debug\net5.0\ref\LAB BD I.dll
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\bin\Debug\net5.0\LAB BD I.pdb
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.csproj.AssemblyReference.cache
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.AssemblyInfoInputs.cache
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.AssemblyInfo.cs
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.csproj.CoreCompileInputs.cache
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.dll
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\ref\LAB BD I.dll
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.pdb
+D:\Trabajos Juan U\Probando Git BD\PruebaPJBD\LAB BD I\obj\Debug\net5.0\LAB BD I.genruntimeconfig.cache
